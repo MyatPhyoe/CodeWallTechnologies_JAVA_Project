@@ -5,7 +5,6 @@ There are four screen, Sign In, Sign Up, Change Password and Resources.
 All screen are connected with button/link.
 
 AT SignIn Screen,
-
 1.We have to fill email and password, or not it will show "Enter email!" or "Enter Password!" when we click "SignIn Button".
 2.We have to fill correct email and password, or not it will show "Incorrect email or password!".
 3.If we fill the correct email and password, it reach the "Resources screen".
